@@ -1,7 +1,7 @@
 # Terms-of-Services
 Terms of Services for Mocj Son discord bot.
 
-Effective Date: [July 13, 2024]
+Effective Date: July 13, 2024
 
 1. Acceptance of Terms
 By inviting and using Mocj Son (hereinafter referred to as "the Bot") on your server, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not invite or use the Bot.
